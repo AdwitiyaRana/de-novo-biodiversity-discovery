@@ -108,9 +108,10 @@ python ribosome_RNA/UMAP3d.py
 ---
 
 ## 📊 Screenshots
+![UMAP Visualization](images/umap.png)
 
 ### 🔹 Cluster Visualization
-![Visualization](ribosome_RNA/cluster_abundance_heatmap.png)
+![Heatmap](ribosome_RNA/cluster_abundance_heatmap.png)
 
 ---
 
